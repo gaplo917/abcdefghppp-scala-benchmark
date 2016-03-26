@@ -1,0 +1,5 @@
+[info] # Run complete. Total time: 00:03:38
+[info]
+[info] Benchmark                         Mode  Cnt        Score       Error  Units
+[info] ABCDEFGHPPP.optimized             avgt  500  2239387.299 ± 12559.785  ns/op
+[info] ABCDEFGHPPP.optimizedAndParallel  avgt  500  2055075.455 ±  7106.094  ns/op
